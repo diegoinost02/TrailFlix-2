@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "userName": "Juan",
+      "email": "juan@gmail.com",
+      "password": "juantretta",
+      "isSubscribed": true
+    },
+    {
+      "id": 3,
+      "userName": "diego",
+      "email": "diego@gmail.com",
+      "password": "diegoinost",
+      "isSubscribed": true
+    },
+    {
+      "id": 4,
+      "userName": "agus1",
+      "email": "agus@gmail.com",
+      "password": "123",
+      "isSubscribed": true
+    }
+  ],
+  "MovieFavs": [
+    {
+      "idMovie": 299054,
+      "poster_path": "/2jmE7xH0R0dikmc8iplCPCit4MD.jpg",
+      "overview": "Cuarta entrega de la saga Los Mercenarios. El veterano mercenario Barney “Esquizo” Ross (Sylvester Stallone) y su equipo de estrellas, formado por los hombres más duros (Jason Statham, Dolph Lundgren, 50 Cent, Megan Fox…), afrontan un nuevo desafío, en una trama cargada de acción. Para superarlo y salir airosos, deberán recurrir a su ingenio, experiencia y a la fuerza bruta que los caracteriza.",
+      "keyYoutube": "https://www.youtube.com/embed/Cm3Z1jEjHHc",
+      "title": "Los mercenarios 4",
+      "idUser": 2,
+      "id": 1
+    },
+    {
+      "idMovie": 385687,
+      "poster_path": "/qDRrP4NATGTWH8ORJV6T0BeoIhQ.jpg",
+      "overview": "Dom Toretto y su familia se convierten en el objetivo del vengativo hijo del capo de las drogas Hernán Reyes.",
+      "keyYoutube": "https://www.youtube.com/embed/eoOaKN4qCKw",
+      "title": "Fast & Furious X",
+      "idUser": 2,
+      "id": 2
+    },
+    {
+      "idMovie": 951491,
+      "poster_path": "/epN0x9JTf3esk1FO8DWkhlE4Ax5.jpg",
+      "overview": "Entre los acontecimientos de 'Saw' y 'Saw II', un enfermo y desesperado John Kramer viaja a México para someterse a un procedimiento médico arriesgado y experimental con la esperanza de encontrar una cura milagrosa para su cáncer, sólo para descubrir que toda la operación es una estafa para robar a  los más vulnerables. Armado con un nuevo propósito, el infame asesino en serie regresa a su trabajo, dándole la vuelta a los estafadores en su forma visceral característica a través de trampas tortuosas, trastornadas e ingeniosas.",
+      "keyYoutube": "https://www.youtube.com/embed/t3PzUo4P21c",
+      "title": "Saw X",
+      "idUser": 2,
+      "id": 3
+    },
+    {
+      "idMovie": 872585,
+      "poster_path": "/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg",
+      "overview": "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.",
+      "keyYoutube": "https://www.youtube.com/embed/uYPbbksJxIg",
+      "title": "Oppenheimer",
+      "idUser": 3,
+      "id": 4
+    },
+    {
+      "idMovie": 507089,
+      "poster_path": "/t6RSJ1z8bDEYpk4fLwxfkXciUak.jpg",
+      "overview": "Un guardia de seguridad con problemas comienza a trabajar en Freddy Fazbear's Pizza. Mientras pasa su primera noche en el trabajo, se da cuenta de que el turno de noche en Freddy's no será tan fácil de superar.",
+      "keyYoutube": "https://www.youtube.com/embed/X4d_v-HyR4o",
+      "title": "Five Nights at Freddy's",
+      "idUser": 3,
+      "id": 5
+    },
+    {
+      "idMovie": 575264,
+      "poster_path": "/83sGKvCv2T2CulYbd40Aeduc7n2.jpg",
+      "overview": "Ethan Hunt (Tom Cruise) y la IMF emprenden la misión más peligrosa a la que nunca se han enfrentado: rastrear una nueva y aterradora arma que amenaza a toda la humanidad antes de que caiga en las manos de un enemigo todopoderoso y misterioso.",
+      "keyYoutube": "https://www.youtube.com/embed/HurjfO_TDlQ",
+      "title": "Misión: Imposible - Sentencia mortal parte uno",
+      "idUser": 3,
+      "id": 6
+    },
+    {
+      "idMovie": 299054,
+      "poster_path": "/2jmE7xH0R0dikmc8iplCPCit4MD.jpg",
+      "overview": "Cuarta entrega de la saga Los Mercenarios. El veterano mercenario Barney “Esquizo” Ross (Sylvester Stallone) y su equipo de estrellas, formado por los hombres más duros (Jason Statham, Dolph Lundgren, 50 Cent, Megan Fox…), afrontan un nuevo desafío, en una trama cargada de acción. Para superarlo y salir airosos, deberán recurrir a su ingenio, experiencia y a la fuerza bruta que los caracteriza.",
+      "keyYoutube": "https://www.youtube.com/embed/Cm3Z1jEjHHc",
+      "title": "Los mercenarios 4",
+      "idUser": 3,
+      "id": 7
+    },
+    {
+      "idMovie": 823395,
+      "poster_path": "/d7APW2AfqUxIkEXZWllaWQRYixD.jpg",
+      "overview": "Un viejo panadero se ve obligado a pasar de contrabando una barra de pan gigante llena de droga para salvar la vida de su hijo.",
+      "keyYoutube": "https://www.youtube.com/embed/G_R8scO_HEE",
+      "title": "The Baker",
+      "idUser": 3,
+      "id": 8
+    }
+  ]
+}
